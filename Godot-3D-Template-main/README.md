@@ -13,7 +13,11 @@ This is my submission for Project 05, the FPS Maze.
 - End Game menus
 
 ## References
-
+- https://kenney.nl/assets/platformer-kit
+- https://kenney.nl/assets/blocky-characters
+- https://freesound.org/people/gneube/sounds/315844/
+- https://freesound.org/people/ProjectsU012/sounds/341695/
+- https://patrickdearteaga.com/royalty-free-music/
 
 
 ## Created by Jalen Moya
