@@ -11,6 +11,7 @@ This is my submission for Project 05, the FPS Maze.
 - Start menu
 - Pause menu
 - End Game menus
+- Procedural Maze Generation w/ Free Textures
 
 ## References
 - https://kenney.nl/assets/platformer-kit
@@ -18,6 +19,8 @@ This is my submission for Project 05, the FPS Maze.
 - https://freesound.org/people/gneube/sounds/315844/
 - https://freesound.org/people/ProjectsU012/sounds/341695/
 - https://patrickdearteaga.com/royalty-free-music/
+- https://ambientcg.com/view?id=Ground062S
+- https://ambientcg.com/view?id=PavingStones125A
 
 
 ## Created by Jalen Moya
