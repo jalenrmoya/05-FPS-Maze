@@ -12,6 +12,8 @@ This is my submission for Project 05, the FPS Maze.
 - Pause menu
 - End Game menus
 - Procedural Maze Generation w/ Free Textures
+- Blasters w/ Muzzle Flash
+- Bullet Decal
 
 ## References
 - https://kenney.nl/assets/platformer-kit
@@ -21,6 +23,8 @@ This is my submission for Project 05, the FPS Maze.
 - https://patrickdearteaga.com/royalty-free-music/
 - https://ambientcg.com/view?id=Ground062S
 - https://ambientcg.com/view?id=PavingStones125A
-
+- https://kenney.nl/assets/blaster-kit
+- https://opengameart.org/content/bullet-decal
+- https://opengameart.org/content/muzzle-flash-with-model
 
 ## Created by Jalen Moya
