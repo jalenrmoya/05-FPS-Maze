@@ -1,5 +1,19 @@
-# Godot-3D-Template
+# FPS Maze Project
+April 12th, 2023
 
-Godot Template for 3D Games
+This is my submission for Project 05, the FPS Maze.
 
-Includes Keyboard mappings and Global.gd
+## Implementation
+- Maze
+- Zombie w/ Sound
+- Key w/ Sound
+- Music that plays during game
+- Start menu
+- Pause menu
+- End Game menus
+
+## References
+
+
+
+## Created by Jalen Moya
