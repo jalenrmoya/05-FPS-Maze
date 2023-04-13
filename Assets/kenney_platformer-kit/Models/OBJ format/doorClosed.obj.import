@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/doorClosed.obj-6e51b1fa7b487f2be1aee38383be3717.mesh"
+
+[deps]
+
+files=[ "res://.import/doorClosed.obj-6e51b1fa7b487f2be1aee38383be3717.mesh" ]
+
+source_file="res://Assets/kenney_platformer-kit/Models/OBJ format/doorClosed.obj"
+dest_files=[ "res://.import/doorClosed.obj-6e51b1fa7b487f2be1aee38383be3717.mesh", "res://.import/doorClosed.obj-6e51b1fa7b487f2be1aee38383be3717.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

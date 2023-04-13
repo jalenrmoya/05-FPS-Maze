@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treePineSmall.obj-e58945fc2544815ea53710e2f4f24471.mesh"
+
+[deps]
+
+files=[ "res://.import/treePineSmall.obj-e58945fc2544815ea53710e2f4f24471.mesh" ]
+
+source_file="res://Assets/kenney_platformer-kit/Models/OBJ format/treePineSmall.obj"
+dest_files=[ "res://.import/treePineSmall.obj-e58945fc2544815ea53710e2f4f24471.mesh", "res://.import/treePineSmall.obj-e58945fc2544815ea53710e2f4f24471.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
